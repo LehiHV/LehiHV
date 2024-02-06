@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lehihv" alt="lehihv" /></a> </p>
 
-- 🔭 I’m currently working on **Point of Sale System**
+- 🔭 I’m currently working on **Application and my Skills**
 
 - 🌱 I’m currently learning **Python, Node.Js and DataStructure**
 
