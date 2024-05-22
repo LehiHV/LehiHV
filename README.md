@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **TypeScript, PHP, Js, Ionic**
 
-- 📫 How to reach me **lehi_espr0@hotmail.com**
+- 📫 How to reach me **lehihv1302@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
