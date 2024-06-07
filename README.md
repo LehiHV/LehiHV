@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lehihv&theme=dracula" alt="lehihv" /></a> </p>
 
-- 🔭 I’m currently working on **Spacee Flix**
+- 🔭 I’m currently working on **SpaceeFlix**, **POS for Restaurants**
 
-- 🌱 I’m currently learning **Lavarel, Docker, Kubernetes**
+- 🌱 I’m currently learning **Lavarel, Docker, Python**
 
-- 👯 I’m looking to collaborate on **All sort of projects**
+- 👯 I’m looking to collaborate on **All sort of projects, Specially apps or web**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Python, Docker**
 
-- 💬 Ask me about **TypeScript, PHP, Js, Ionic**
+- 💬 Ask me about **TypeScript, PHP, Js, IonicFramework**
 
 - 📫 How to reach me **lehihv1302@outlook.com**
 
