@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **All sort of projects, Specially apps or web**
 
-- 🤝 I’m looking for help with **Docket and Web Services**
+- 🤝 I’m looking for help with **Docker and Web Services**
 
 - 💬 Ask me about **TypeScript, PHP, Js, IonicFramework**
 
