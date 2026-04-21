@@ -6,7 +6,9 @@ Landing page profesional para portafolio y CV, desarrollada con HTML, CSS y Java
 
 Este proyecto queda listo para publicarse en GitHub Pages con un flujo automatico de GitHub Actions.
 
-- URL esperada (repositorio de usuario): https://lehihv.github.io/
+- URL esperada para este repositorio: https://lehihv.github.io/LehiHV/
+
+Nota: La URL raiz `https://lehihv.github.io/` solo funciona si el repositorio se llama exactamente `lehihv.github.io`.
 
 ## Ejecutar en Local
 
