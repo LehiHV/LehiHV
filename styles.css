@@ -243,6 +243,36 @@ h1 span {
   color: var(--text-soft);
 }
 
+.project {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.project-meta {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.project-meta span {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.25rem 0.65rem;
+  font-size: 0.82rem;
+  color: var(--text-soft);
+}
+
+.project-link {
+  color: var(--primary-2);
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
+
 .chips {
   display: flex;
   flex-wrap: wrap;
